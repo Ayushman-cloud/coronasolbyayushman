@@ -16,19 +16,19 @@
 
 <!-- Slide Show -->
 <section>
-  <img class="mySlides" src="img_band_la.jpg"
+  <img class="mySlides" src="ranchi.jpeg"
   style="width:100%">
-  <img class="mySlides" src="img_band_ny.jpg"
+  <img class="mySlides" src="delhi.jpeg"
   style="width:100%">
-  <img class="mySlides" src="img_band_chicago.jpg"
+  <img class="mySlides" src="download.jpeg"
   style="width:100%">
 </section>
 
 <!-- Band Description -->
 <section class="w3-container w3-center w3-content" style="max-width:600px">
-  <h2 class="w3-wide">THE BAND</h2>
-  <p class="w3-opacity"><i>We love music</i></p>
-  <p class="w3-justify">We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  <h2 class="w3-wide"> AYUSHMAN </h2>
+  <p class="w3-opacity"><i>COVID</i></p>
+  <p class="w3-justify">Corona is a virus</p>
 </section>
 
 <!-- Band Members -->
@@ -57,9 +57,7 @@
   <a href="#"><i class="fa fa-twitter"></i></a>
   <a href="#"><i class="fa fa-flickr"></i></a>
   <a href="#"><i class="fa fa-linkedin"></i></a>
-  <p class="w3-medium">
-  Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
-  </p>
+ 
 </footer>
 
 <script>
